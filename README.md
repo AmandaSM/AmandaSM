@@ -71,8 +71,10 @@
 
 ### 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AmandaSM/)
 [![Email](https://img.shields.io/badge/-Email-%23333?style=flat-square&logo=gmail&logoColor=white)](mailto:ti.amandamonteiro@gmail.com)
+---
+
+<!--[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AmandaSM/)
 
 ---
 
