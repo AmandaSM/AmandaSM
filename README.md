@@ -29,10 +29,13 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET Framework](https://img.shields.io/badge/-.NET%20Framework%204.5.2-512BD4?style=for-the-badge&logo=dotnet)
 ![.NET 6/8](https://img.shields.io/badge/-.NET%206%20%7C%208-512BD4?style=for-the-badge&logo=dotnet)
 ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-blue?style=for-the-badge)
 ![Web Forms](https://img.shields.io/badge/-Web%20Forms-00599C?style=for-the-badge)
+![Dapper](https://img.shields.io/badge/-Dapper-512BD4?style=for-the-badge)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
 ![Knockout.js](https://img.shields.io/badge/-Knockout.js-94B447?style=for-the-badge)
 ![Bootstrap 5](https://img.shields.io/badge/-Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap)
@@ -41,12 +44,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Serilog](https://img.shields.io/badge/-Serilog-0C0C0C?style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman)
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![IoT](https://img.shields.io/badge/-IoT-00BFFF?style=for-the-badge)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ---
 
