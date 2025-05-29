@@ -35,6 +35,7 @@
 ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-blue?style=for-the-badge)
 ![Web Forms](https://img.shields.io/badge/-Web%20Forms-00599C?style=for-the-badge)
 ![Dapper](https://img.shields.io/badge/-Dapper-512BD4?style=for-the-badge)
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-6E4C7F?style=for-the-badge)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
 ![Knockout.js](https://img.shields.io/badge/-Knockout.js-94B447?style=for-the-badge)
